@@ -1,2 +1,3 @@
 # Piano-Pr
-Piano project
+Piano project 
+With HTML CSS & JavaScript
